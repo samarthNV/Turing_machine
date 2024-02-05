@@ -3,7 +3,7 @@
 
 ## Brief Description
 
-This project is based on C++ language. It is a menu-driven program used to shorten a URL taken as input from the user. OOPs concept used to create a desired class(user-defined data type). It contains following files 
+This project is based on C++ language. OOPs concept used to create a desired class(user-defined data type). It contains following files 
 
 - turing_machine.cpp : Contains the source code.
 - turing_machine.exe : Execution file
